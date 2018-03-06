@@ -1,0 +1,31 @@
+h1  {
+  Color: red;
+font-size: 100px;
+font-style: Times new roman;
+background:pink;
+text-align: center;
+font-family:sans-serif;
+text-decoration: underline;
+}
+body {
+    background-image: url("http://cdn.akc.org/content/hero/puppy-boundaries_header.jpg");
+    background-repeat: repeat;
+    background-position: right top;
+
+}
+
+h2 {
+
+Color: purple;
+text-align: center;
+font-size: 50px;
+font-family:sans-serif;
+}
+
+p {
+  Color: red;
+}
+
+div {
+  color: blue;
+}
